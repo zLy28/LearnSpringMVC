@@ -12,6 +12,7 @@
         <module>LearnSpringMVC-1</module>
         <module>LearnSpringMVC-2</module>
         <module>LearnSpringMVC-3</module>
+        <module>LearnSpringMVC-4</module>
     </modules>
 
     <dependencies>

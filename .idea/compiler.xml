@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="LearnSpringMVC-2" />
         <module name="LearnSpringMVC-1" />
+        <module name="LearnSpringMVC-4" />
         <module name="LearnSpringMVC-3" />
       </profile>
     </annotationProcessing>
